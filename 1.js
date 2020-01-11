@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-'use strict'
+/*'use strict'
 
 let money = prompt(" Введите ваш бюджет"),
     time = prompt("Введите дату в формате YYYY-MM-DD");
@@ -27,8 +26,7 @@ delete appData.expenses["oneStrAsk"];
 console.log(appData.expenses["oneStr"]);
 console.log(appData.expenses["twoStr"]);
 alert( "Бюджет на один день = " + appData.moneyMonth/30 + " Руб. " );
-
-=======
+*/
 'use strict'
 
 let money = +prompt(" Введите ваш бюджет"),
